@@ -4,6 +4,8 @@
 
 > Display a random Greeting message retrieved an API
 
+## Link to Frontend REPO
+[Frontend](https://github.com/danielufeli/hello-world-frontend/)
 
 ## Built With
 
